@@ -1,2 +1,1 @@
-# StableAiAIEngineX
-Advanced StableAiAIEngineX project
+.
